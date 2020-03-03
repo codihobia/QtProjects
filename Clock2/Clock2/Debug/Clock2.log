@@ -1,0 +1,9 @@
+﻿  Uic'ing Clock.ui...
+  Rcc'ing Clock.qrc...
+  Moc'ing Clock.h...
+   RCC: Warning: No resources in 'D:\Users\HP\Documents\Qt_Test\Clock2\Clock2\Clock.qrc'.
+  Clock.cpp
+  main.cpp
+  qrc_Clock.cpp
+  moc_Clock.cpp
+  Clock2.vcxproj -> D:\Users\HP\Documents\Qt_Test\Clock2\Win32\Debug\Clock2.exe
